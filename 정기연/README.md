@@ -19,3 +19,9 @@ sstudy 알고리즘 기록
 [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 <br>
 [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
+<br>
+[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+<br>
+[숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+<br>
+[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
