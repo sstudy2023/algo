@@ -12,7 +12,7 @@
 
 [권수린](https://www.acmicpc.net/problem/2579)
 
-[신지한]()
+[신지한](https://www.acmicpc.net/problem/14442)
 
 [신재은](https://www.acmicpc.net/problem/14888)
 
