@@ -19,3 +19,11 @@ sstudy 알고리즘 기록
 [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 <br>
 [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)
+<br>
+[랜선 자르기](https://www.acmicpc.net/problem/1654)
+<br>
+[두 용액](https://www.acmicpc.net/problem/2470)
+<br>
+[가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)
+<br>
+[공유기 설치](https://www.acmicpc.net/problem/2110)
