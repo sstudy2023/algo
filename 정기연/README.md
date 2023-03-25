@@ -27,3 +27,9 @@ sstudy 알고리즘 기록
 [가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)
 <br>
 [공유기 설치](https://www.acmicpc.net/problem/2110)
+<br>
+[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+<br>
+[숫자카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
+<br>
+[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)
