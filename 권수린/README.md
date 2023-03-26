@@ -10,3 +10,8 @@ sstudy 알고리즘 기록
 [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
 [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
+
+## 3주차
+[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=javascript)
+[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
