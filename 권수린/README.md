@@ -15,3 +15,8 @@ sstudy 알고리즘 기록
 [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=javascript)
 [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
 [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+
+## 4주차
+[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=javascript)
+[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)
