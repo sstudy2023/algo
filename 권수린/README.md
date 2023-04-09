@@ -20,3 +20,8 @@ sstudy 알고리즘 기록
 [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=javascript)
 [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)
+
+## 4월 1주차
+[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
+[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+[빙산](https://www.acmicpc.net/problem/2573)
