@@ -25,3 +25,8 @@ sstudy 알고리즘 기록
 [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
 [빙산](https://www.acmicpc.net/problem/2573)
+
+## 4월 2주차
+[수들의 합2](https://www.acmicpc.net/problem/2003)
+[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+[포도주 시식](https://www.acmicpc.net/problem/2156)
