@@ -35,3 +35,8 @@ sstudy 알고리즘 기록
 - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 - [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+
+## 4월 4주차
+- [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
+- [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+- [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
