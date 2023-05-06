@@ -40,3 +40,10 @@ sstudy 알고리즘 기록
 - [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 - [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 - [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)
+
+## 5월 1주차
+- [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)
+- [카드 합체 놀이](https://www.acmicpc.net/problem/15903)
+- [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+- [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
