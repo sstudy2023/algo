@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A와B",
+            "request": "launch",
+            "mainClass": "A와B",
+            "projectName": "algo_2b47c629"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "algo_2b47c629"
+        },
+        {
+            "type": "java",
+            "name": "불켜기",
+            "request": "launch",
+            "mainClass": "불켜기",
+            "projectName": "algo_2b47c629"
+        },
+        {
+            "type": "java",
+            "name": "빗물",
+            "request": "launch",
+            "mainClass": "빗물",
+            "projectName": "algo_2b47c629"
+        },
+        {
+            "type": "java",
+            "name": "숨바꼭질3",
+            "request": "launch",
+            "mainClass": "숨바꼭질3",
+            "projectName": "algo_2b47c629"
+        },
+        {
+            "type": "java",
+            "name": "스카이라인쉬운거",
+            "request": "launch",
+            "mainClass": "스카이라인쉬운거",
+            "projectName": "algo_2b47c629"
+        },
+        {
+            "type": "java",
+            "name": "인구이동",
+            "request": "launch",
+            "mainClass": "인구이동",
+            "projectName": "algo_2b47c629"
+        },
+        {
+            "type": "java",
+            "name": "파티",
+            "request": "launch",
+            "mainClass": "파티",
+            "projectName": "algo_2b47c629"
+        }
+    ]
+}
