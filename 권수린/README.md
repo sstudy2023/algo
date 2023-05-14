@@ -47,3 +47,9 @@ sstudy 알고리즘 기록
 - [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 - [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+
+## 5월 2주차
+- [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+- [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+- [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
