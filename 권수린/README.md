@@ -53,3 +53,9 @@ sstudy 알고리즘 기록
 - [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 - [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
+
+## 5월 3주차
+- [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+- [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)
