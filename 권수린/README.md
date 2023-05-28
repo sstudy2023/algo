@@ -59,3 +59,10 @@ sstudy 알고리즘 기록
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 - [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)
+
+## 5월 4주차
+- [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+- [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+- [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+- [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)
+- [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)
