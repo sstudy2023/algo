@@ -1,0 +1,5 @@
+-- 문제: 경기도에 위치한 창고의 정보(ID, 이름, 주소, 냉동시설 여부)를 출력, 냉동시설 여부가 NULL이면 N으로 표기, ID 기준 오름차순
+SELECT WAREHOUSE_ID, WAREHOUSE_NAME, ADDRESS, IFNULL(FREEZER_YN, 'N')
+FROM FOOD_WAREHOUSE
+WHERE ADDRESS LIKE '경기도%'
+ORDER BY WAREHOUSE_ID

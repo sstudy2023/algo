@@ -10,10 +10,8 @@
 
 ### 문제 링크
 
-권수린: []()
+권수린: [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899# (수정됨))
 
-신지한: []()
-
-신재은: []()
+신재은: [톱니바퀴](https://www.acmicpc.net/problem/14891)
 
 정원석: []()
