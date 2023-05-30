@@ -1,0 +1,8 @@
+-- 시간대별 입양 건수 출력, 9:00~19:59 사이의 입양건만 시간대 순으로 정렬해서 출력
+-- 주의! HAVING에는 HOUR(DATETIME)처럼 적용이 불가능함 -> ALIAS 사용해 HOUR로는 가능
+-- 범위 사이는 BETWEEN A AND B로 가능(A, B도 포함)
+SELECT HOUR(DATETIME) AS HOUR, COUNT(*)
+FROM ANIMAL_OUTS
+GROUP BY 1
+HAVING HOUR BETWEEN 9 AND 19
+ORDER BY HOUR(DATETIME)
