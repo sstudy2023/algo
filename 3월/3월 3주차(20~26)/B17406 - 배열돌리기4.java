@@ -4,10 +4,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 // 배열돌리기4 - https://www.acmicpc.net/problem/17406
+// 돌리는 for문 쓸 때 조건문 안 필요한가? 해당 행, 열일때만 돌려야할거 같은데 고려해보자
 public class B17406 {
 	
 	static int N, M, K;
-	static int[][] arr, change, rcs;
+	static int[][] arr, rcs;
 	static int[] order;
 	static boolean[] visited;
 	static int result = Integer.MAX_VALUE; // 배열의 최솟값(출력)
@@ -46,7 +47,13 @@ public class B17406 {
 	private static void permutation(int depth) {
 		// k번 회전 완료하면 비교
 		if(depth == K) {
-			change = arr.clone(); // 배열 복사
+			// 배열 복사
+			int[][] change = new int[N][M]; // arr.clone()으로 하면 깊은 복사가 안되서 변경된 값이 저장된 상태에서 시작해서 틀렸었음!!!
+			for(int i=0; i<N; i++) {
+				for(int j=0; j<M; j++) {
+					change[i][j] = arr[i][j];
+				}
+			}
 			
 			// 뽑힌 순열 순서대로 회전좌표 뽑고 회전
 			for(int i=0; i<K; i++) {
@@ -77,6 +84,27 @@ public class B17406 {
 		// 더 이상 회전이 불가능하면 종료 -> 1개만 있을때
 		if(x1==x2 && y1==y2) return;
 		
+		int s = arr[x1][y1]; // 시작점
+		// x1 <- x2
+		for(int r=x1; r<x2; r++) {
+			arr[r][y1] = arr[r+1][y1];
+		}
+		// y1 <- y2
+		for(int c=y1; c<y2; c++) {
+			arr[x2][c] = arr[x2][c+1];
+		}
+		// x2 <- x1
+		for(int r=x2; r>x1; r--) {
+			arr[r][y2] = arr[r-1][y2];
+		}
+		// y2 <- y1
+		for(int c=y2; c>y1+1; c--) {
+			arr[x1][c] = arr[x1][c-1];
+		}
+		// 시작값도 대입(y2<-y1)
+		arr[x1][y1+1] = s;
+		
+		/* 이 방법으로 해도 당연히 제대로 돌아감
 		int[] square = new int[3]; // 시작점인 x1,y1 꼭짓점을 제외한 순열의 나머지 꼭짓점
 		square[0] = arr[x1][y2];
 		square[1] = arr[x2][y2];
@@ -105,6 +133,7 @@ public class B17406 {
 			arr[r][y1] = arr[r+1][y1];
 		}
 		arr[x2-1][y1] = square[2];
+		*/
 		
 		// 한칸씩 들어가서 회전
 		rotate(arr, x1+1, y1+1, x2-1, y2-1);
