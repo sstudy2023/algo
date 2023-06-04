@@ -10,8 +10,8 @@
 
 ### 문제 링크
 
-권수린: []()
+권수린: [카드 섞기](https://www.acmicpc.net/problem/1091)
 
-신재은: []()
+신재은: [타일 코드](https://www.acmicpc.net/problem/1720)
 
-정원석: []()
+정원석: [큐빙](https://www.acmicpc.net/problem/5373)
