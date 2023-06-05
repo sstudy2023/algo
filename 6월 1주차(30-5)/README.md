@@ -14,4 +14,4 @@
 
 신재은: [타일 코드](https://www.acmicpc.net/problem/1720)
 
-정원석: [큐빙](https://www.acmicpc.net/problem/5373)
+정원석: [감시 피하기](https://www.acmicpc.net/problem/18428)
