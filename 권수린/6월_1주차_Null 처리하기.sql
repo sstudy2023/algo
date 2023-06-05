@@ -1,0 +1,4 @@
+-- 이름이 없는 동물은 'No name'으로 표시하는 문제
+SELECT ANIMAL_TYPE, IF(NAME IS NULL, 'No name', NAME), SEX_UPON_INTAKE
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID

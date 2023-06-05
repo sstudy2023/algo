@@ -66,3 +66,15 @@ sstudy 알고리즘 기록
 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 - [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)
 - [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)
+
+## 6월 1주차
+- [3차 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
+- [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+- [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414)
+- [Null 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
+
+## 6월 2주차
+- []()
+- []()
+- []()
+- [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)
