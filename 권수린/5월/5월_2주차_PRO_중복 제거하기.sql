@@ -1,0 +1,4 @@
+SELECT COUNT(DISTINCT NAME) AS count
+FROM ANIMAL_INS
+
+-- COUNT(*) => NULL 포함 모든 개수, COUNT(컬럼명) => NULL 제외 개수

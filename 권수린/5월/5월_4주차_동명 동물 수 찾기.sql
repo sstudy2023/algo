@@ -1,0 +1,6 @@
+-- 이름이 없는 동물 제외 같은 이름이 두 마리 이상인 동물의 이름과 횟수 조회
+SELECT NAME, COUNT(*) AS COUNT 
+FROM ANIMAL_INS
+WHERE NAME IS NOT NULL
+GROUP BY NAME HAVING COUNT >= 2
+ORDER BY NAME
