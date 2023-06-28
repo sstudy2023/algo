@@ -74,7 +74,19 @@ sstudy 알고리즘 기록
 - [Null 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
 
 ## 6월 2주차
-- []()
-- []()
-- []()
+- [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+- [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
 - [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)
+
+## 6월 3주차
+- [인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)
+- [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+- [후보 추천하기](https://www.acmicpc.net/problem/1713)
+- [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046)
+
+## 6월 4주차
+- [Milk Factory](https://www.acmicpc.net/problem/17199)
+- [컴백홈](https://www.acmicpc.net/problem/1189)
+- [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+- [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)
