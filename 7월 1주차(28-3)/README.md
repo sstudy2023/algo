@@ -14,4 +14,4 @@
 
 신재은: [AC](https://www.acmicpc.net/problem/5430)
 
-정원석: [ ](https://www.acmicpc.net/problem/17140)
+정원석: [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
