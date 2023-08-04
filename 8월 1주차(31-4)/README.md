@@ -12,4 +12,4 @@
 
 신재은: [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=java)
 
-정원석: [택배배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+정원석: [출퇴근길](https://softeer.ai/practice/info.do?idx=1&eid=1529&sw_prbl_sbms_sn=234561)
