@@ -10,7 +10,7 @@
 
 ### 문제 링크
 
-권수린: [.](..)
+권수린: [반전 요세푸스]([..](https://www.acmicpc.net/problem/20301)https://www.acmicpc.net/problem/20301)
 
 신재은: [.](..)
 
