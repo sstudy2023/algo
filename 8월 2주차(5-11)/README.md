@@ -14,4 +14,4 @@
 
 신재은: [LCS](https://www.acmicpc.net/problem/9251)
 
-정원석: [.](..)
+정원석: [슈퍼 컴퓨터 클러스터](https://softeer.ai/practice/info.do?idx=1&eid=1204&sw_prbl_sbms_sn=107822)
