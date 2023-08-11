@@ -12,6 +12,6 @@
 
 권수린: [반전 요세푸스](https://www.acmicpc.net/problem/20301)
 
-신재은: [.](..)
+신재은: [LCS](https://www.acmicpc.net/problem/9251)
 
 정원석: [.](..)
