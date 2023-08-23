@@ -14,4 +14,4 @@
 
 신재은: [스도쿠](https://www.acmicpc.net/problem/2239)
 
-정원석: []()
+정원석: [https://school.programmers.co.kr/learn/courses/30/lessons/150365/solution_groups?language=java&type=my]()
